@@ -15,5 +15,7 @@ Button1.onclick=function(){
     lblFalse.hidden = false
     lblFalse.textContent = "Your username does not exist, you will now be registered."
     members.push(memberName)
+    Input1.value = ""
+    console.log(members[])
   }
 }
