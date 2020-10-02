@@ -1,11 +1,11 @@
-
+/*
 let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 
 let memberName = ""
 //take in member name
 
-Button1.onclick=function(){
-  memberName = Input1.value
+btnSubmit2.onclick=function(){
+  memberName = inptMember.value
   let checkName = members.includes(memberName)
   if (checkName == true) {
     lblTrue.hidden = false 
@@ -15,7 +15,8 @@ Button1.onclick=function(){
     lblFalse.hidden = false
     lblFalse.textContent = "Your username does not exist, you will now be registered."
     members.push(memberName)
-    Input1.value = ""
-    console.log(members[])
+    inptMember.value = ""
+    console.log(members[]) //Checks if member added successfully
   }
 }
+*/
