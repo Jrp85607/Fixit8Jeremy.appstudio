@@ -16,7 +16,25 @@
         "forms",
         "twoControls",
         "Elements",
-        "Navs1.json"
+        "Checkbox1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "twoControls",
+        "Elements",
+        "inptSubmit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "twoControls",
+        "Elements",
+        "Dropdown1.json"
       ]
     }
   ],

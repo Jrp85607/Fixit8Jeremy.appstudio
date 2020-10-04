@@ -16,7 +16,7 @@
         "forms",
         "ABMadLibs",
         "Elements",
-        "Input1.json"
+        "inptName.json"
       ]
     },
     {
@@ -25,7 +25,61 @@
         "forms",
         "ABMadLibs",
         "Elements",
-        "Button1.json"
+        "inptPlay.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABMadLibs",
+        "Elements",
+        "inptNoun.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABMadLibs",
+        "Elements",
+        "inptVerb.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABMadLibs",
+        "Elements",
+        "inptAdjective.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABMadLibs",
+        "Elements",
+        "inptAdverb.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABMadLibs",
+        "Elements",
+        "lblDisplay.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABMadLibs",
+        "Elements",
+        "lblName.json"
       ]
     }
   ],
