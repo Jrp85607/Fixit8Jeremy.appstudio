@@ -1,4 +1,4 @@
-/*
+
 var nounArray = ['dog', 'cat', 'horse']
 var verbArray = ['running', 'jumping', 'alking']
 var adjectiveArray = ['lively', 'loudly', 'cleverly']
@@ -46,7 +46,7 @@ inptPlay.onclick=function()
     lblDisplay.hidden = true
     inptPlay.value = "Play" */
   /*  console.log(userName , nounValue, verbValue, adjectiveValue, adverbValue)*/
- /*   }
+    }
   
 }
- */
+ 

@@ -1,4 +1,4 @@
-/*
+
 let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 
 let memberName = ""
@@ -19,4 +19,3 @@ btnSubmit2.onclick=function(){
     console.log(members[]) //Checks if member added successfully
   }
 }
-*/
