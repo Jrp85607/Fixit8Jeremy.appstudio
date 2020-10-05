@@ -16,6 +16,6 @@ btnSubmit2.onclick=function(){
     lblFalse.textContent = "Your username does not exist, you will now be registered."
     members.push(memberName)
     inptMember.value = ""
-    console.log(members[]) //Checks if member added successfully
+    console.log(members) //Checks if member added successfully
   }
 }

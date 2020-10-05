@@ -44,7 +44,7 @@ inptPlay.onclick=function()
     lblName.hidden = true
     lblDisplay.textContent = ""
     lblDisplay.hidden = true
-    inptPlay.value = "Play" */
+    inptPlay.value = "Play"
   /*  console.log(userName , nounValue, verbValue, adjectiveValue, adverbValue)*/
     }
   
