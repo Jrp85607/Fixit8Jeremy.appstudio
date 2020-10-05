@@ -14,36 +14,72 @@
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "ABMadLibs",
         "Elements",
-        "inptMember.json"
+        "inptName.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "ABMadLibs",
         "Elements",
-        "lblTrue.json"
+        "inptPlay.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "ABMadLibs",
         "Elements",
-        "lblFalse.json"
+        "inptNoun.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "ABMadLibs",
         "Elements",
-        "btnSubmit2.json"
+        "inptVerb.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABMadLibs",
+        "Elements",
+        "inptAdjective.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABMadLibs",
+        "Elements",
+        "inptAdverb.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABMadLibs",
+        "Elements",
+        "lblDisplay.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABMadLibs",
+        "Elements",
+        "lblName.json"
       ]
     }
   ],
@@ -53,7 +89,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "membership",
+  "id": "ABMadLibs",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -66,8 +102,6 @@
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",
