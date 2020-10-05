@@ -45,6 +45,15 @@
         "Elements",
         "lblDropdownResponse.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "twoControls",
+        "Elements",
+        "lblPagination.json"
+      ]
     }
   ],
   "class": "",
