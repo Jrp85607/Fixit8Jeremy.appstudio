@@ -16,25 +16,34 @@
         "forms",
         "twoControls",
         "Elements",
-        "Checkbox1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "twoControls",
-        "Elements",
-        "inptSubmit.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "twoControls",
-        "Elements",
         "Dropdown1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "twoControls",
+        "Elements",
+        "inptName2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "twoControls",
+        "Elements",
+        "Pagination1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "twoControls",
+        "Elements",
+        "lblDropdownResponse.json"
       ]
     }
   ],
